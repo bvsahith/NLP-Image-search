@@ -1,4 +1,4 @@
-# NLP-Image-search
+# Vision-Language Image Retrieval using Dual Encoder (CLIP-style)
 
 
 Using a dual encoder neural network model to search for images using natural language.
